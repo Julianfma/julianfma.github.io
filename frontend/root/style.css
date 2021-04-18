@@ -1,0 +1,40 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+main{
+    max-width: 80%;
+    margin: 0 auto;
+}
+header {
+    background-color: #dddddd;
+    text-align: center;
+}
+
+h1, h2 {
+    background-color: #BFBFBF;
+} 
+
+h1 { 
+    color:#174376;
+    
+}
+
+h2 {
+    color: #632423;
+}
+
+
+
+span{
+    font-weight: bold;
+}
+
+.item-detail {
+    font-style: italic;
+    font-weight: bold;
+}
+
+footer{
+    color: white;
+    background-color:#174376 ;
+}
